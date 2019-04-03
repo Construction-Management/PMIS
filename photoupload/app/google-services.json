@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141102734829",
+    "firebase_url": "https://photoupload-aebca.firebaseio.com",
+    "project_id": "photoupload-aebca",
+    "storage_bucket": "photoupload-aebca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141102734829:android:a866556f406b4678",
+        "android_client_info": {
+          "package_name": "com.example.newu.photoupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141102734829-kf4h945a5hmckdov76khqjmcf4sbrhi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newu.photoupload",
+            "certificate_hash": "1ff0fc1f7af4e6e1273772301fa87fb8a6ba1fe4"
+          }
+        },
+        {
+          "client_id": "141102734829-pfq198k772dlq21nrdomn67tsac438nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRNLvlvq10IIHFGGL26sNz9KIY0_nog8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141102734829-pfq198k772dlq21nrdomn67tsac438nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

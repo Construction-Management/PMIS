@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955187448565",
+    "firebase_url": "https://noteupload-1f23b.firebaseio.com",
+    "project_id": "noteupload-1f23b",
+    "storage_bucket": "noteupload-1f23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955187448565:android:3af95efc73f0cc4d",
+        "android_client_info": {
+          "package_name": "com.example.newu.noteupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955187448565-vcj8ont21if9g9d67tvncm5ubaj9jpal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newu.noteupload",
+            "certificate_hash": "1ff0fc1f7af4e6e1273772301fa87fb8a6ba1fe4"
+          }
+        },
+        {
+          "client_id": "955187448565-j0gk8ek68a5613j1jm52d9qitgfh3ccd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgdyQL25nXfiSFIyj9ZyR60UVVVh4yvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955187448565-j0gk8ek68a5613j1jm52d9qitgfh3ccd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
